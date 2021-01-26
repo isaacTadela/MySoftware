@@ -7,3 +7,4 @@ def welcome():
 def click():
     print("Click")
 
+print("trigger jenkins")
